@@ -1,7 +1,7 @@
 # 윤이슬
 * E-mail : inb9614@gmail.com
 ## 개인 저장소
-* Github : https://github.com/yunyiseul
+* Github : https://github.com/yiseulYun
 ## 경력
 [(주) 아이시프트](<http://www.ishift.co.kr/>)
 > 2015.12 입사 ~ 현재
@@ -31,6 +31,7 @@
 > * 소속 : 아모레퍼시픽
 > * 기간 : 2017.08 ~ 2018.03
 > * 유형 : 사이트 운영
+> * <http://www.d-steady.com/main.do>
 
 > Espoir
 > * 소속 : 아모레퍼시픽
@@ -42,3 +43,4 @@
 > * 소속 : 아모레퍼시픽
 > * 기간 : 2018.10 ~ 현재
 > * 유형 : APmall 역직구 사이트 운영.
+> * <http://global.amorepacificmall.com/en/main.do>
