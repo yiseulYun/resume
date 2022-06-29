@@ -1,5 +1,5 @@
 # 윤이슬
-* E-mail : inb9614@gmail.com
+* E-mail : frontyys@gmail.com
 ## 개인 저장소
 * Github : https://github.com/yiseulYun
 ## 경력
